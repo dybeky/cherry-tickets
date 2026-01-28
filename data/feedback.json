@@ -1,0 +1,49 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "ticketId": 1,
+      "moderatorId": "454319586960080897",
+      "moderatorName": "",
+      "userId": "454319586960080897",
+      "userName": "dybeky",
+      "rating": "negative",
+      "comment": "ddfsafdsfdsfsdfdsfdsfds",
+      "createdAt": "2026-01-28T18:10:41.372Z"
+    },
+    {
+      "id": 2,
+      "ticketId": 1,
+      "moderatorId": "454319586960080897",
+      "moderatorName": "",
+      "userId": "454319586960080897",
+      "userName": "dybeky",
+      "rating": "negative",
+      "comment": "fghfjkgkdfhgjksdgd",
+      "createdAt": "2026-01-28T18:21:40.377Z"
+    },
+    {
+      "id": 3,
+      "ticketId": 1,
+      "moderatorId": "454319586960080897",
+      "moderatorName": "",
+      "userId": "454319586960080897",
+      "userName": "dybeky",
+      "rating": "negative",
+      "comment": "fdfd",
+      "createdAt": "2026-01-28T18:27:47.907Z"
+    },
+    {
+      "id": 4,
+      "ticketId": 1,
+      "moderatorId": "454319586960080897",
+      "moderatorName": "",
+      "userId": "454319586960080897",
+      "userName": "dybeky",
+      "rating": "negative",
+      "comment": "dsfdsfdsfsd",
+      "createdAt": "2026-01-28T18:31:55.849Z"
+    }
+  ],
+  "counter": 4
+}

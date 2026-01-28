@@ -1,0 +1,24 @@
+{
+  "snippets": {
+    "wait": {
+      "ru": "Пожалуйста, подождите. Модератор скоро ответит на ваш тикет.",
+      "en": "Please wait. A moderator will respond to your ticket shortly."
+    },
+    "info": {
+      "ru": "Для решения вашего вопроса нам нужна дополнительная информация. Пожалуйста, предоставьте:\n- Ваш Steam ID\n- Скриншоты/видео (если есть)\n- Точное время инцидента",
+      "en": "To resolve your issue, we need additional information. Please provide:\n- Your Steam ID\n- Screenshots/videos (if any)\n- Exact time of the incident"
+    },
+    "resolved": {
+      "ru": "Ваш вопрос был решён. Если у вас есть дополнительные вопросы, не стесняйтесь открыть новый тикет.",
+      "en": "Your issue has been resolved. If you have any additional questions, feel free to open a new ticket."
+    },
+    "rules": {
+      "ru": "Пожалуйста, ознакомьтесь с правилами сервера перед игрой. Нарушение правил может привести к бану.",
+      "en": "Please read the server rules before playing. Violation of rules may result in a ban."
+    },
+    "evidence": {
+      "ru": "Для рассмотрения жалобы необходимы доказательства (скриншоты, видео). Без них мы не сможем принять меры.",
+      "en": "Evidence (screenshots, videos) is required to process the complaint. Without it, we cannot take action."
+    }
+  }
+}

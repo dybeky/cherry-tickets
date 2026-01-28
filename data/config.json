@@ -1,0 +1,28 @@
+{
+  "roles": {
+    "admin": "",
+    "seniorModerator": "",
+    "moderator": "",
+    "helper": "",
+    "builder": "",
+    "eventManager": ""
+  },
+  "categories": {
+    "cheaters": "1466144970862887181",
+    "staffComplaints": "1466144971965993074",
+    "playerComplaints": "1466144973849362629",
+    "gameQuestions": "1466144975510175756",
+    "techSupport": "1466144977179508799",
+    "applications": "1466144978647646281"
+  },
+  "channels": {
+    "ticketLogs": "1466144961178239099",
+    "ticketPanel": "1466144958267260999",
+    "feedbackLogs": "1466144963564933447"
+  },
+  "settings": {
+    "maxTicketsPerUser": 2,
+    "ticketDeleteDelay": 10000,
+    "pingDeleteDelay": 5000
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "type": "tech_support",
+      "userId": "454319586960080897",
+      "guildId": "1466089451871535197",
+      "channelId": "1466145069089161434",
+      "language": "en",
+      "server": "washington",
+      "formData": null,
+      "status": "open",
+      "claimedBy": null,
+      "claimedAt": null,
+      "rating": null,
+      "createdAt": "2026-01-28T18:57:01.713Z"
+    }
+  ],
+  "counter": 1
+}
